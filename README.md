@@ -7,7 +7,7 @@ I'm a Software Engineer, Content writer, and Community Engineer who currently wo
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
+- 💡 Fun fact: I'm currently studying at ALX [ALX Software Engineering](https://www.alxafrica.com/programme_post/full-stack-software-engineer/) and  AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I’m currently learning JavaScript, Reactjs, and Python.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Technical writing, Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
